@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
+    <gml:featureMember>
+        <gpml:TopologicalClosedPlateBoundary>
+            <gpml:identity>GPlates-c4d34c22-53ad-40a9-be71-04be9b17c148</gpml:identity>
+            <gpml:revision>GPlates-faa312ea-71e4-4847-ade1-0032a92e074b</gpml:revision>
+            <gml:name>India-Australia-Antarctica breakup</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">131</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">101</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>501</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:boundary>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">33.450990097982093 98.961110890888051 33.032745726442911 94.902154885020764 29.128038401583563 91.729839181767758 24.419501754782402 87.790075248393663 21.45981135131094 83.722651404107921 17.811642453833507 81.132012007741281 14.883605980360619 78.678474915568017 10.373205045010298 77.13873886503174 7.7842277214449105 75.918073269124463 3.9356924607394914 77.197113794670798 2.3581765749708539 78.960716625458488 0.97955945659348687 81.621818995277536 1.6611828812066867 84.110610318107959 10.569877692986543 90.199624338489457 15.209479223374604 98.7223802676329 18.474699942122985 103.7512278784576 22.391187612595374 105.57744245204691 26.906004940307731 104.15096012235711 29.830411456153893 103.28156890776374 33.099433213161184 99.939214424795196 33.450990097982093 98.961110890888051 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:boundary>
+        </gpml:TopologicalClosedPlateBoundary>
+    </gml:featureMember>
+</gpml:FeatureCollection>
