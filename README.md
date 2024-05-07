@@ -5,6 +5,8 @@ Given a full-plate model and some bounding polygons (defined in GPlates), extrac
 Notebooks:
 
 1-convert_masking_polygons_to_gmt.ipynb, convert gplates bounding polygons to GMT polygons
+
 2-Extract_ridges.ipynb, use bounding polygons to extract mid-ocean ridges within their spatio-temporal bounds
+
 3-plot_figures.ipynb, plot results figure for manuscript
 
