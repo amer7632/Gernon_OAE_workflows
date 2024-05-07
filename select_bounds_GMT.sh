@@ -1,3 +1,4 @@
+#modified from a script of Sabin Zahirovic
 #declare our different ridge names
 declare -a arr=("Afr-Ant" "Afr-Mad" "Aus-Ant" "Aus-Mol" "Central_Atlantic" \
                 "Equatorial_Atlantic" "Iberian_Atlantic" "Ind-Aus-Ant" \
